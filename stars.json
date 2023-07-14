@@ -1,139 +1,145 @@
 [
   {
+    "full_name": "n3oney/discord-update-skip",
+    "stargazers_count": 36,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "AdnanHodzic/auto-cpufreq",
-    "stargazers_count": 3898,
+    "stargazers_count": 3910,
     "open_issues_count": 35,
-    "forks_count": 217
+    "forks_count": 218
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 3269,
-    "open_issues_count": 72,
-    "forks_count": 139
+    "stargazers_count": 3405,
+    "open_issues_count": 70,
+    "forks_count": 144
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 4782,
+    "stargazers_count": 5324,
     "open_issues_count": 4,
-    "forks_count": 399
+    "forks_count": 434
   },
   {
     "full_name": "9elements/min-max-calculator",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 52277,
-    "open_issues_count": 0,
-    "forks_count": 10653
+    "stargazers_count": 52315,
+    "open_issues_count": 1,
+    "forks_count": 10662
   },
   {
     "full_name": "cytopia/devilbox",
-    "stargazers_count": 4173,
+    "stargazers_count": 4177,
     "open_issues_count": 53,
     "forks_count": 607
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 29138,
-    "open_issues_count": 134,
-    "forks_count": 1401
+    "stargazers_count": 29176,
+    "open_issues_count": 137,
+    "forks_count": 1404
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 2029,
-    "open_issues_count": 27,
+    "stargazers_count": 2033,
+    "open_issues_count": 26,
     "forks_count": 48
   },
   {
     "full_name": "ddosify/ddosify",
-    "stargazers_count": 7469,
+    "stargazers_count": 7566,
     "open_issues_count": 23,
-    "forks_count": 329
+    "forks_count": 334
   },
   {
     "full_name": "hocus-dev/hocus",
-    "stargazers_count": 2605,
-    "open_issues_count": 11,
-    "forks_count": 50
+    "stargazers_count": 2718,
+    "open_issues_count": 13,
+    "forks_count": 53
   },
   {
     "full_name": "Mahmud0808/Iconify",
-    "stargazers_count": 810,
-    "open_issues_count": 15,
+    "stargazers_count": 818,
+    "open_issues_count": 13,
     "forks_count": 38
   },
   {
     "full_name": "seerge/g-helper",
-    "stargazers_count": 1472,
-    "open_issues_count": 5,
-    "forks_count": 71
+    "stargazers_count": 1513,
+    "open_issues_count": 8,
+    "forks_count": 72
   },
   {
     "full_name": "BowlingX/geschichte",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 9,
     "forks_count": 2
   },
   {
     "full_name": "getcursor/cursor",
-    "stargazers_count": 16201,
-    "open_issues_count": 153,
-    "forks_count": 1244
+    "stargazers_count": 16240,
+    "open_issues_count": 157,
+    "forks_count": 1247
   },
   {
     "full_name": "ts-essentials/ts-essentials",
-    "stargazers_count": 3230,
-    "open_issues_count": 36,
+    "stargazers_count": 3238,
+    "open_issues_count": 37,
     "forks_count": 112
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 11321,
-    "open_issues_count": 148,
-    "forks_count": 423
+    "stargazers_count": 11365,
+    "open_issues_count": 149,
+    "forks_count": 426
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 12823,
+    "stargazers_count": 12837,
     "open_issues_count": 24,
     "forks_count": 761
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 23949,
-    "open_issues_count": 446,
-    "forks_count": 1108
+    "stargazers_count": 24273,
+    "open_issues_count": 464,
+    "forks_count": 1140
   },
   {
     "full_name": "magic-wormhole/magic-wormhole",
-    "stargazers_count": 16606,
-    "open_issues_count": 145,
+    "stargazers_count": 16615,
+    "open_issues_count": 146,
     "forks_count": 592
   },
   {
     "full_name": "trungk18/angular-tetris",
-    "stargazers_count": 477,
-    "open_issues_count": 5,
+    "stargazers_count": 479,
+    "open_issues_count": 6,
     "forks_count": 96
   },
   {
     "full_name": "andrew--r/frontend-case-studies",
     "stargazers_count": 7012,
     "open_issues_count": 28,
-    "forks_count": 412
+    "forks_count": 413
   },
   {
     "full_name": "paralect/ship",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 4,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "stylify/packages",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 28,
     "forks_count": 7
   },
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "acaudwell/Gource",
-    "stargazers_count": 10412,
+    "stargazers_count": 10418,
     "open_issues_count": 98,
     "forks_count": 704
   },
   {
     "full_name": "alexfoxy/lax.js",
-    "stargazers_count": 9954,
+    "stargazers_count": 9968,
     "open_issues_count": 17,
-    "forks_count": 500
+    "forks_count": 503
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 6665,
-    "open_issues_count": 241,
-    "forks_count": 1087
+    "stargazers_count": 6671,
+    "open_issues_count": 240,
+    "forks_count": 1088
   },
   {
     "full_name": "techiescamp/kubernetes-learning-path",
-    "stargazers_count": 5330,
+    "stargazers_count": 5336,
     "open_issues_count": 1,
     "forks_count": 516
   },
   {
     "full_name": "sanity-io/sanity",
-    "stargazers_count": 4414,
+    "stargazers_count": 4418,
     "open_issues_count": 265,
     "forks_count": 366
-  },
-  {
-    "full_name": "KevinVandy/mantine-react-table",
-    "stargazers_count": 302,
-    "open_issues_count": 7,
-    "forks_count": 32
   }
 ]
